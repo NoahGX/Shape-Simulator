@@ -10,7 +10,7 @@
   - **Graphical Display**: Draws the specified shape with the provided attributes on the screen.
 
 ## Usage
-Run the script in your MATLAB environment. The script will prompt you to choose a shape and then request the necessary dimensions and color for that shape. After receiving the inputs, it will display the shape along with its area.
+To run this project, run the script in your MATLAB environment. The script will prompt you to choose a shape and then request the necessary dimensions and color for that shape. After receiving the inputs, it will display the shape along with its area.
 
 ## Prerequisites
   - MATLAB (preferably R2019b or later) with the following toolboxes:
