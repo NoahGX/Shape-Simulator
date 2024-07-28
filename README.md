@@ -1,4 +1,4 @@
-# My_Shapes
+# Shape Simulator
 
 ## Overview
 `My_Shapes.pl` is a MATLAB script designed to demonstrate the basics of object-oriented programming and graphics in MATLAB. It allows users to select a geometric shape, specify attributes like size and color, and then calculates the area and displays the shape.
